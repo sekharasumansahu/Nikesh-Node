@@ -1,0 +1,1 @@
+{"version":3,"file":"user_onboard.js","sourceRoot":"","sources":["../../../src/routes/end_point/user_onboard.ts"],"names":[],"mappings":";;AAAA,uCAAsC;AAGtC,eAAM,CAAC,GAAG,CAAC,GAAG,EAAE,UAAC,GAAa,EAAE,GAAc;IAC1C,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,EAAC,KAAK,EAAG,8BAA8B,EAAC,CAAC,CAAA;AAClE,CAAC,CAAC,CAAC;AAEH,MAAM,CAAC,OAAO,GAAG,eAAM,CAAC"}
